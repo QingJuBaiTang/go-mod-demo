@@ -2,7 +2,7 @@ package very_fun
 
 import "fmt"
 
-func main(){
+func P(){
     fmt.Printf("hello world\n")
 }
 
